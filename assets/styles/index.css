@@ -1274,13 +1274,13 @@ section:nth-of-type(2){
 @media(min-width: 375px) {
     .onik {
         width: 170px;
-        margin-left: 6%;
+        margin-left: 1%;
         margin-top: 37%;
     }
     .abouttext {
         font-size: 11px;
         text-align: center;
-        margin-left: 5%;
+        margin-left: 1%;
         margin-top: 5%;
     }
     .circle {
@@ -1293,15 +1293,15 @@ section:nth-of-type(2){
         font-size: 11px;
     }
     .circle.orange {
-        margin-left: 17%;
+        margin-left: 15%;
         margin-top: 5%;
     }
     .circle.blue {
-        margin-left: 42.8%;
+        margin-left: 40.8%;
         margin-top: -17.7%;
     }
     .circle.yellow {
-        margin-left: 69%;
+        margin-left: 67%;
         margin-top: -19%;
     }
     .menu {
