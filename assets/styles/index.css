@@ -1229,7 +1229,7 @@ section:nth-of-type(2){
 
 /* RESPONSIVE */
 
-@media(min-width: 1366px) {
+@media(max-width: 1366px) {
     .onik {
         width: 220px;
         margin-top: 12%;
@@ -1271,7 +1271,7 @@ section:nth-of-type(2){
 }
 
 /* iphone 6/7/8 */
-@media(min-width: 375px) {
+@media(max-width: 375px) {
     .onik {
         width: 170px;
         margin-left: 1%;
